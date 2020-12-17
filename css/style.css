@@ -337,7 +337,7 @@ footer{
 
 .space-z{
 	display:flex;
-	align-items:center;
+	justify:center;
 }
 
 .footer-right p{
